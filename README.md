@@ -8,4 +8,4 @@ Python scripts to extract Unity Catalog metadata from a Databricks workspace.
 - `extract_schemas.py`: Lists schemas per catalog
 - `extract_tables.py`: Lists tables/views
 - `extract_columns.py`: Describes table structure
-- `extract_usage_stats.py`: (Optional) Usage and lineage
+- `extract_usage_stats.py`:  Usage and lineage
